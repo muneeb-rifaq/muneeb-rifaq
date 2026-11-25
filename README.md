@@ -98,9 +98,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneebrifaq&show_icons=true&theme=tokyonight&hide_border=true" alt="Muneeb's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muneeb-rifaq&show_icons=true&theme=tokyonight&hide_border=true" alt="Muneeb's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebrifaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-rifaq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
